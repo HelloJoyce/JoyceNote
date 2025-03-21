@@ -1,2 +1,0 @@
-# JoyceNote
-my study notebook
